@@ -93,3 +93,4 @@ C:\Users\pc\source\repos\ApiRest\ApiRest\bin\roslyn\vbc.exe.config
 C:\Users\pc\source\repos\ApiRest\ApiRest\bin\roslyn\vbc.rsp
 C:\Users\pc\source\repos\ApiRest\ApiRest\bin\roslyn\VBCSCompiler.exe
 C:\Users\pc\source\repos\ApiRest\ApiRest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pc\source\repos\ApiRest\ApiRest\obj\Debug\ApiRest.csprojAssemblyReference.cache
